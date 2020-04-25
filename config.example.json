@@ -5,25 +5,25 @@
     "roleAuth": {
       "__comment__": "Dev is user IDs. Everything else is roles",
       "dev": [
-        ""
+        "459175543154147328"
       ],
       "admin": [
-        ""
+        "703725718647078972"
       ],
       "mod": [
-        ""
+        "703725718647078972"
       ]
     },
     "modmail": {
-      "guildID": "",
-      "categoryID": "",
-      "logsID": ""
+      "guildID": "564543048894382118",
+      "categoryID": "564616694409199616",
+      "logsID": "703403667486670920"
     },
     "blacklist": []
   }, 
   "database": {
     "creds": {
-      "db": ""
+      "db": "459175543154147328"
     }
   }
 }
